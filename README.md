@@ -1,1 +1,1 @@
-# Ineuron-Assiangments
+ iNeuron  Python & Machine Learning Assignments.
